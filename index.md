@@ -25,13 +25,13 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | März, Di. 22.03.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | April, Di. 26.04.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Mai, Di. 17.05.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>PW: 8454541234
-| Juni, Mi. 21.06.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>Mit Vortrag und Erfahrungsbericht des neuen ZERO DOWNTIME Verfahrens im SAP Umfeld
-| Juli, Di. 19.07.2022 | 20:00 - 22:00 | * Pilot: Best of SAP Customer Influencer Programm</br>* Buchvorstellung</br>- Thorsten Lüdtke</br> @biportal</br> SAP BW/4 HANA - Konzepte Prozesse Funktionen | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| August, Di. 23.08.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm </br>* Authorenvorstellung - Ferienzeit | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| September, Di. 20.09.2022 | 20:00 - 22:00 | * Authorenvorstellung</br>- Lutz Rosenpflanzer</br> mit Custom-Code-Migration nach SAP S/4HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Authorenvorstellung</br>- Łukasz Pęgiel</br> @abapblog</br> Abap in Eclipse - Install, Configure, Use and Enhance your ADT | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| November Di. 14.11.2022 -17.11.2021 | ab 16:00 | SAP TechED Time</br> Just go to the Workshop Section |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Dezember, Di. 13.12.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Joerg Brandeis</br>@joerg_brandeis</br>SQLScript für SAP HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Juni, Mi. 21.06.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>
+| Juli, Di. 19.07.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| August, Di. 23.08.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| September, Di. 20.09.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| November Di. 14.11.2022 -17.11.2021 | ab 20:00 | |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Dezember, Di. 13.12.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 
@@ -50,11 +50,8 @@ We are open for any non-german-speaking guests, too! We already do have a good m
 
  Aktuelle sind ALLE SAP CODEAM ausgesetzt von SAP Developer Relations wg der COVID-19 Thematik
 
-Hi Folks,
 
-Pack your bags. Be prepared be ready. Grab your favorite cookies, coffeemug and enjoy the #vSAPWorkshop Integration Services. A lot of questions will be answered and we have the opportunity todo an "HandsOn" in classical SAP CodeJam style.
-
-## Aktuelle Workshops in 2021
+## Aktuelle Workshops in 2022
 
 ### #vSAPWorkSpace
 

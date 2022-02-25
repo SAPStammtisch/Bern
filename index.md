@@ -1,4 +1,4 @@
-# SAP Stammtisch Bern und virtuell Schweiz - 2021
+# SAP Stammtisch Bern und virtuell Schweiz - 2022
 
 Der #SAPStammtischBern wird virtuell durchführt und nach Absprache  mit den andere Kollegen virtuell in #vSAPStammtischCH umbenannt . Hier haben wir die Möglichkeit uns zu den aktuellen Themen auszutauschen.
 
@@ -16,22 +16,22 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 
 [Link zur XING Gruppe SAP Stammtisch Bern](https://www.xing.com/communities/groups/sap-stammtisch-bern-30f8-1079650)
 
-### Stammtisch Bern Termine für 2021
+### Stammtisch Bern Termine für 2022
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar, Di. 19.01.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Februar, Di. 23.02.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| März, Di. 23.03.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| April, Di. 20.04.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Mai, Mi. 19.05.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>PW: 8454541234
-| Juni, Mi. 23.06.2021 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>Mit Vortrag und Erfahrungsbericht des neuen ZERO DOWNTIME Verfahrens im SAP Umfeld
-| Juli, Di. 20.07.2021 | 20:00 - 22:00 | * Pilot: Best of SAP Customer Influencer Programm</br>* Buchvorstellung</br>- Thorsten Lüdtke</br> @biportal</br> SAP BW/4 HANA - Konzepte Prozesse Funktionen | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| August, Di. 24.08.2021 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm </br>* Authorenvorstellung - Ferienzeit | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| September, Di. 21.09.2021 | 20:00 - 22:00 | * Authorenvorstellung</br>- Lutz Rosenpflanzer</br> mit Custom-Code-Migration nach SAP S/4HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Oktober, Di. 26.10.202121 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Authorenvorstellung</br>- Łukasz Pęgiel</br> @abapblog</br> Abap in Eclipse - Install, Configure, Use and Enhance your ADT | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| November Di. 15.11.2021 -17.11.2021 | ab 16:00 | SAP TechED Time</br> Just go to the Workshop Section |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Dezember, Di. 14.12.2021 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Joerg Brandeis</br>@joerg_brandeis</br>SQLScript für SAP HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Januar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Februar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| März, Di. 22.03.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| April, Di. 26.04.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Mai, Di. 17.05.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>PW: 8454541234
+| Juni, Mi. 21.06.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>Mit Vortrag und Erfahrungsbericht des neuen ZERO DOWNTIME Verfahrens im SAP Umfeld
+| Juli, Di. 19.07.2022 | 20:00 - 22:00 | * Pilot: Best of SAP Customer Influencer Programm</br>* Buchvorstellung</br>- Thorsten Lüdtke</br> @biportal</br> SAP BW/4 HANA - Konzepte Prozesse Funktionen | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| August, Di. 23.08.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm </br>* Authorenvorstellung - Ferienzeit | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| September, Di. 20.09.2022 | 20:00 - 22:00 | * Authorenvorstellung</br>- Lutz Rosenpflanzer</br> mit Custom-Code-Migration nach SAP S/4HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Authorenvorstellung</br>- Łukasz Pęgiel</br> @abapblog</br> Abap in Eclipse - Install, Configure, Use and Enhance your ADT | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| November Di. 14.11.2022 -17.11.2021 | ab 16:00 | SAP TechED Time</br> Just go to the Workshop Section |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Dezember, Di. 13.12.2022 | 20:00 - 22:00 | * Best of SAP Customer Influencer Programm</br>* Joerg Brandeis</br>@joerg_brandeis</br>SQLScript für SAP HANA | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 

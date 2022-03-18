@@ -22,7 +22,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | --- | --- | --- | ---
 | Januar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Februar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| März, Di. 22.03.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| März, Di. 22.03.2022 | 20:00 - 22:00 | Autoren Vorstellung Jelena Perfiljeva https://www.rheinwerk-verlag.de/getting-started-with-abap/| [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | April, Di. 26.04.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Mai, Di. 17.05.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>PW: 8454541234
 | Juni, Mi. 21.06.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>

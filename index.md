@@ -57,7 +57,7 @@ We are open for any non-german-speaking guests, too! We already do have a good m
 
 Every Friday afternoon  
 from 14:00 - 16:00  
-Registration: directmail me
+Registration: directmail me jakob(dot)flaman(at)flaman(dot)ch
 
 Status: confirmed
 
@@ -75,8 +75,20 @@ If you want to discuss we will openup some BreakOut rooms.
 Pls put the video on :)
 
 ### Workshops 2022
+25.03.2022 Excursion to CERN with a guided tour at 15:00 (CET)
+ topic and content:      https://visit.cern/guided-tours-individuals
+ Meetingpoint in Cern: Kasse   
+ Departure in Bern: Mainstaition Infopoint 12:30 
+ Agenda:
+ - 12:30 Departure from Bern by individual cars
+ - 15:00 Cern guided tour
+ - 16:00 discussin and snacks in cafeteria
+ - 17:00 travel to murten
+ - 18:30 diner and walk around the ancient city
+ - 21:00 to be in Bern :)
+  
 
-tbd
+
 ## Archiv
 
 ### 2021

@@ -87,7 +87,8 @@ Pls put the video on :)
  - 18:30 diner and walk around the ancient city
  - 21:00 to be in Bern :)
   
-
+## Ideas for further ecxursions
+Excursion to Cern "Passport to the Big Bang" https://passeport-big-bang.web.cern.ch/. Its a bycycle tour :)
 
 ## Archiv
 

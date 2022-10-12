@@ -30,7 +30,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | August, Di. 23.08.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | September, Di. 20.09.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Oktober, Di. 18.10.2022 | 18:00 - 21:00 | Vor Ort in Bern "Auf der Grossen Schanze"| Live und in Farbe :) https://www.grosseschanze.ch/ganztags
-| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | (https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | November Di. 14.11.2022 -17.11.2022 | ab 20:00 | |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Dezember, Di. 13.12.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 

@@ -38,7 +38,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 ### Stammtisch Bern Termine für 2023
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Mai, Sa. 13.05.2022 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS if you are interested to join, participate and tobe a member of the gang DM me :)| It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
+| Mai, Sa. 13.05.2022 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 
 Ort: Virtuell mit ZOOM

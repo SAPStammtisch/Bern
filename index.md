@@ -34,6 +34,11 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | November Di. 14.11.2022 -17.11.2022 | ab 20:00 | |	[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Dezember, Di. 13.12.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 
+
+### Stammtisch Bern Termine für 2023
+| Datum | Uhrzeit | Agenda | Ort
+| --- | --- | --- | ---
+| Mai, Sa. 13.05.2022 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS if you are interested to join, participate and tobe a member of the gang DM me :)| It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 
 Ort: Virtuell mit ZOOM

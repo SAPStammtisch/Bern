@@ -39,7 +39,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation
+| Januar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
 | Mai, Sa. 13.05.2022 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 

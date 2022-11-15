@@ -39,8 +39,19 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| Mai, Sa. 13.05.2022 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
+| Januar Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| February Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| March Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Avril Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| May Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| June Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| July Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| August Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| September Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Octobre Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Novembre Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Decembre Di. 24.01.2023 | ab 18:00 | SAP CodeJam Stammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 
 Ort: Virtuell mit ZOOM
@@ -58,7 +69,7 @@ We are open for any non-german-speaking guests, too! We already do have a good m
 
  Aktuelle sind ALLE SAP CODEAM ausgesetzt von SAP Developer Relations wg der COVID-19 Thematik
 
-## Aktuelle Workshops in 2023
+## Geplante Workshops in 2023
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
 | Januar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk I Basic in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP

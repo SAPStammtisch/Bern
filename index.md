@@ -31,7 +31,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | September, Di. 20.09.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | Oktober, Di. 18.10.2022 | 18:00 - 21:00 | Vor Ort in Bern "Auf der Grossen Schanze"| Live und in Farbe :) https://www.grosseschanze.ch/ganztags
 | Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| November Di. 15.11.2022 -17.11.2022 | ab 18:00 | [SAP TechED](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/virtualdashboard/page/overview) |[Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/89250312936)
+| November Di. 15.11.2022 -17.11.2022 | ab 18:00 | [SAP TechED](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/virtualdashboard/page/overview) |[Virtuell mit Zoom ]</br>[ (follow th[e white rabbit :))](https://us02web.zoom.us/j/89250312936)
 | Dezember, Di. 13.12.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom </br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 
 

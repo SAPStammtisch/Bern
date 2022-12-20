@@ -32,25 +32,25 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | Oktober, Di. 18.10.2022 | 18:00 - 21:00 | Vor Ort in Bern "Auf der Grossen Schanze"| Live und in Farbe :) https://www.grosseschanze.ch/ganztags
 | Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | November Di. 15.11.2022 -17.11.2022 | ab 18:00 | [SAP TechED](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/virtualdashboard/page/overview) |Virtuell mit Zoom </br> [follow the white rabbit :))](https://us02web.zoom.us/j/89250312936)
-| Dezember, Di. 20.12.2022 | 20:00 - 22:00 | End of Year Beer. Meet friends. Be cool :)| [Virtuell mit Zoom </br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
+| Dezember, Di. 20.12.2022 | 19:00 - 22:00 | End of Year Beer. Meet friends. Be cool :)| [Virtuell mit Zoom </br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 
 
 ### Stammtisch Bern Termine für 2023
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Di. 24.01.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| February Di. 21.02.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| March Di. 21.03.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| Avril Di. 18.04.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| May Di. 16.05.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| June Di. 20.06.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| July Di. 18.07.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| August Di. 15.08.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| September Di. 19.09.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| Octobre Di. 17.10.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| Novembre Di. 21.11.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| Decembre Di. 19.12.2023 | ab 18:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Januar Di. 24.01.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| February Di. 21.02.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| March Di. 21.03.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Avril Di. 18.04.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| May Di. 16.05.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| June Di. 20.06.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| July Di. 18.07.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| August Di. 15.08.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| September Di. 19.09.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Octobre Di. 17.10.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Novembre Di. 21.11.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Decembre Di. 19.12.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 

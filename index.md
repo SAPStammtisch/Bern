@@ -1,4 +1,4 @@
-# SAP Stammtisch Bern und virtuell Schweiz - 2022
+# SAP Stammtisch Bern und virtuell Schweiz
 
 Der #SAPStammtischBern wird virtuell durchführt und nach Absprache  mit den andere Kollegen virtuell in #vSAPStammtischCH umbenannt . Hier haben wir die Möglichkeit uns zu den aktuellen Themen auszutauschen.
 

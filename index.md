@@ -16,24 +16,6 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 
 [Link zur XING Gruppe SAP Stammtisch Bern](https://www.xing.com/communities/groups/sap-stammtisch-bern-30f8-1079650)
 
-### Stammtisch Bern Termine für 2022
-
-| Datum | Uhrzeit | Agenda | Ort
-| --- | --- | --- | ---
-| Januar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Februar, Di. xx.xx.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| März, Di. 22.03.2022 | 20:00 - 22:00 | Author presentation #SAPABAPDEV und #SAPCOMMUNITY Member Jelena Perfiljeva. Discussion and presentation language will be in english https://www.rheinwerk-verlag.de/getting-started-with-abap/| [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09) 
-| April, Di. 26.04.2022 | 20:00 - 22:00 |#SAPCommunity member Volker Buzek Presentation and Diskussion WDI5 "end-to-end tests of a UI5 web-application" | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Mai, Di. 17.05.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>PW: 8454541234
-| Juni, Mi. 21.06.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)</br>
-| Juli, Di. 19.07.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| August, Di. 23.08.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| September, Di. 20.09.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| Oktober, Di. 18.10.2022 | 18:00 - 21:00 | Vor Ort in Bern "Auf der Grossen Schanze"| Live und in Farbe :) https://www.grosseschanze.ch/ganztags
-| Oktober, Di. 25.10.2022 | 20:00 - 22:00 | | [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
-| November Di. 15.11.2022 -17.11.2022 | ab 18:00 | [SAP TechED](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/virtualdashboard/page/overview) |Virtuell mit Zoom </br> [follow the white rabbit :))](https://us02web.zoom.us/j/89250312936)
-| Dezember, Di. 20.12.2022 | 19:00 - 22:00 | End of Year Beer. Meet friends. Be cool :)| [Virtuell mit Zoom </br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-
 
 ### Stammtisch Bern Termine für 2023
 
@@ -51,6 +33,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | Octobre Di. 17.10.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | Novembre Di. 21.11.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | Decembre Di. 19.12.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+
 
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 

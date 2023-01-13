@@ -21,7 +21,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Di. 24.01.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend Carsten Lex https://www.jug.ch/html/events/2023/prozesse_in_bpmn2.0_ZH.html |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
+| Januar Di. 24.01.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend [Carsten Lex](https://www.jug.ch/html/events/2023/prozesse_in_bpmn2.0_ZH.html) |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | February Di. 21.02.2023 | ab 19:00 | #vSAPStammtisch   |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | March Di. 21.03.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?
 | Avril Di. 18.04.2023 | ab 19:00 | #vSAPStammtisch  |  [Virtuell mit Zoom</br> (follow the white rabbit :))](https://us02web.zoom.us/j/92185252407?

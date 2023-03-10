@@ -50,7 +50,9 @@ We are open for any non-german-speaking guests, too! We already do have a good m
 
 ## Organisation der #vSAPWorkshops
 
- Aktuelle sind ALLE SAP CODEAM ausgesetzt von SAP Developer Relations wg der COVID-19 Thematik
+Nächte SAP Codejam sind geplant
+
+31.03.2023 Ingo Bräuninger Steampunk onPrem
 
 ## Geplante Workshops in 2023
 | Datum | Uhrzeit | Agenda | Ort

@@ -24,7 +24,7 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | Januar Di. 24.01.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend [Carsten Lex](https://www.jug.ch/html/events/2023/prozesse_in_bpmn2.0_ZH.html) BPMN und Prozessgenerierung anhand eines praktischen Beispiels  |  Virtuell mit Zoom </br> (follow the white rabbit :) ][https://us02web.zoom.us/j/92185252407?](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
 | February Di. 21.02.2023 | ab 19:00 | #vSAPStammtisch   |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | March Di. 28.03.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| Avril Di. 18.04.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
+| Avril Di. 25.04.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | May Di. 16.05.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | June Di. 20.06.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend Alexander mit seinem Bericht über den Jakobsweg (Camino)|  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | July Di. 18.07.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?

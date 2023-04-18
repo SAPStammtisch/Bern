@@ -61,7 +61,7 @@ Nächte SAP Codejam sind geplant
 | Februar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Machine Learning in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
 | March Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Data Science (Jupyter Notebook) in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
 | April Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk II Basic in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| June, Sa. 10.06.2023 | 09:00 - 17:00 | SAP Inside Track Bern + SITKIDS + Pre Event | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
+| June, Sa. 10.06.2023 | 09:00 - 17:00 | CANCELED SAP Inside Track Bern + SITKIDS + Pre Event | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
 | Septembre, Sa. xx.09.2023 | 0x:00 - xx:00 | Adventure trip to CERN | https://visit.cern/ What kind of tour will be decided later (guided tour AND OR bike tour https://passeport-big-bang.web.cern.ch/.) .
  
 ### #vSAPWorkSpace

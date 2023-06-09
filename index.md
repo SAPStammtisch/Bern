@@ -26,14 +26,6 @@ So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wär
 | March Di. 28.03.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | Avril Di. 25.04.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
 | May Di. 16.05.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| June Di. 20.06.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend Alexander mit seinem Bericht über den Jakobsweg (Camino)|  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| July Di. 18.07.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| August Di. 15.08.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| September Di. 19.09.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| Octobre Di. 17.10.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| Novembre Di. 21.11.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| Decembre Di. 19.12.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-
 
 Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 

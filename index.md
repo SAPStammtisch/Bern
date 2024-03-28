@@ -1,35 +1,21 @@
 # SAP Stammtisch Bern und virtuell Schweiz
 
-Der #SAPStammtischBern wird virtuell durchführt und nach Absprache  mit den andere Kollegen virtuell in #vSAPStammtischCH umbenannt . Hier haben wir die Möglichkeit uns zu den aktuellen Themen auszutauschen.
+Der #SAPStammtischBern wird physisch und bei Bedarf virtuell #vSAPStammtischBern durchgeführt . Hier haben wir die Möglichkeit uns zu den aktuellen Themen auszutauschen.
 
 ## Aktuelles
-
-Aufgrund von COVID 19 sind alle Aktivitäten daran ausgerichtet die physischen Kontakte zu mininmieren und die Physischen Workshops bis auf weiteres in Virtuelle gewandelt.
-
-siehe Sektion Stammtisch jeden Monat einen SAP Stammtisch Bern Anmeldung virtuell. Die Urzeit hat sich dem neuen Trend angepasst und fängt um 20:00 an
-Alle CodeJam sind gewandelt in #vSAPWorkshop als Ergänzung und Alternative in #Zoom Format
 
 Public Viewing bedeutet das wir eine ZOOM Session eröffnen und parallel die Veranstaltung im 2ten Fenster lokal LIVE verfolgen.
 So können wir uns austauschen als ob wir vor Ort wären. Die einzige Bitte wäre die Kamera einzuschalten im Zoom sonst macht es irgendwie keinen Sinn
 
 ## Termine für den #vSAPStammtischBern und CH
 
-[Link zur XING Gruppe SAP Stammtisch Bern](https://www.xing.com/communities/groups/sap-stammtisch-bern-30f8-1079650)
-
-
-### Stammtisch Bern Termine für 2023
+### Stammtisch Bern Termine für 2024
 
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Di. 24.01.2023 | ab 19:00 | #vSAPStammtisch </br>Gastsprecher ist an diesem Abend [Carsten Lex](https://www.jug.ch/html/events/2023/prozesse_in_bpmn2.0_ZH.html) BPMN und Prozessgenerierung anhand eines praktischen Beispiels  |  Virtuell mit Zoom </br> (follow the white rabbit :) ][https://us02web.zoom.us/j/92185252407?](https://us02web.zoom.us/j/92185252407?pwd=bnovSVBUQk14eHA0cUlQSStJbytZdz09)
-| February Di. 21.02.2023 | ab 19:00 | #vSAPStammtisch   |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| March Di. 28.03.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| Avril Di. 25.04.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
-| May Di. 16.05.2023 | ab 19:00 | #vSAPStammtisch  |  Virtuell mit Zoom (follow the white rabbit :)) https://us02web.zoom.us/j/92185252407?
+| Mai Di. 30.04.2024 | ab 18:00 | Grosse Schanze in Bern, ideal gelegen für die Leute die auf dem Nachhauseweg den HBF Bern benutzen :) 
 
-Falls Ihr ein Passwort brauchen solltet ist "ddic" ein gutes.
 
-Ort: Virtuell mit ZOOM
 
 Um bei einem neuen Termin per Mail informiert zu werden, könnt Ihr die die Benachrichtgigungsfunktion des SCN-Wiki nutze.
 
@@ -46,14 +32,10 @@ Nächte SAP Codejam sind geplant
 
 31.03.2023 Ingo Bräuninger Steampunk onPrem
 
-## Geplante Workshops in 2023
+## Geplante Workshops in 2024
 | Datum | Uhrzeit | Agenda | Ort
 | --- | --- | --- | ---
-| Januar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk I Basic in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| Februar Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Machine Learning in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| March Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Data Science (Jupyter Notebook) in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| April Fr. xx.xx.2023 | ab 13:00 | SAP CodeJam Steampunk II Basic in planning  | Bern @SwissPost Wankdorf. Details will coming after confirmation the event through SAP
-| June, Sa. 10.06.2023 | 09:00 - 17:00 | CANCELED SAP Inside Track Bern + SITKIDS + Pre Event | It will be at the Mettlenvilla in Muri https://www.villamettlen.ch/vermietung/grundriss/
+| xxxxx Fr. xx.xx.2024 | ab 13:00 | xxxxxxxxx
 | Septembre, Sa. xx.09.2023 | 0x:00 - xx:00 | Adventure trip to CERN | https://visit.cern/ What kind of tour will be decided later (guided tour AND OR bike tour https://passeport-big-bang.web.cern.ch/.) .
  
 ### #vSAPWorkSpace
